@@ -1,1 +1,1 @@
-# actionsdemo
+# GH Actions demo :rocket:
